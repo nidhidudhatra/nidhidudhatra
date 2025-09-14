@@ -1,12 +1,12 @@
 # Hi there, I'm Nidhi 👋
 🔹 Currently upskilling in Python
 
-🚀 Current Focus
+**🚀 Current Focus**
 Developing Python fundamentals (CS50P, MOOC.fi and GitHub projects)
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 Languages: Python (NumPy, Pandas)
 Other: GitHub, Jupyter and Excel
 
-📫 Connect with Me
-LinkedIn: linkedin.com/in/nidhidudhatra
+**📫 Connect with Me**
+LinkedIn: [linkedin.com/in/nidhidudhatra] (linkedin.com/in/nidhidudhatra)
