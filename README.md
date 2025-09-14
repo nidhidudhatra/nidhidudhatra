@@ -13,4 +13,4 @@ Other: GitHub, Jupyter and Excel
 
 **📫 Connect with Me**
 
-LinkedIn: [linkedin.com/in/nidhidudhatra] (linkedin.com/in/nidhidudhatra)
+LinkedIn: [linkedin.com/in/nidhidudhatra](linkedin.com/in/nidhidudhatra)
